@@ -1,0 +1,9 @@
+D:\personal\opensouces\Pagination\Pagination\bin\Debug\netstandard2.0\Pagination.deps.json
+D:\personal\opensouces\Pagination\Pagination\bin\Debug\netstandard2.0\Pagination.dll
+D:\personal\opensouces\Pagination\Pagination\bin\Debug\netstandard2.0\Pagination.pdb
+D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.csprojAssemblyReference.cache
+D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.AssemblyInfoInputs.cache
+D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.AssemblyInfo.cs
+D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.csproj.CoreCompileInputs.cache
+D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.dll
+D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.pdb
