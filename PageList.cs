@@ -14,5 +14,9 @@ namespace Pagination
         public int recordCount { get; set; }
         public int pageCount { get; set; }
         public List<TEntity> rows { get; set; }
+        /// <summary>
+        /// Other Extensible Parameters
+        /// </summary>
+        public IDictionary<string, object> parameters { get; set; }
     }
 }
