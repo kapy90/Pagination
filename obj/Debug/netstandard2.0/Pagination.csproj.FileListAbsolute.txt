@@ -6,3 +6,4 @@ D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination
 D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.csproj.CoreCompileInputs.cache
 D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.dll
 D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.pdb
+D:\personal\opensouces\Pagination\Pagination\obj\Debug\netstandard2.0\Pagination.csprojAssemblyReference.cache
